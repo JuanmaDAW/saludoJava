@@ -4,6 +4,7 @@ public class Saludo {
 		
 		System.out.println("Hola esto es la version 1 del programa de Saludo, mi nombre es Juanma");
 	         System.out.println("Hola esto es la versión del programa de Saludo, mi nombre es Carolina");
+
 	}
 
 }
